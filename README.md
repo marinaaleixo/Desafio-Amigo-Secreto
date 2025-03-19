@@ -15,7 +15,7 @@ As linguagens de programação utilizadas para desenvolver este projeto foram:
 ## Como Usar
 
 1. Abra o arquivo `index.html` em seu navegador.
-2. Adicione os nomes dos participantes na lista fornecida.
+2. Adicione os nomes dos participantes.
 3. Clique no botão "Sortear" para gerar os amigos secretos aleatoriamente.
 4. Visualize os resultados e se prepare para a troca de presentes!
 
